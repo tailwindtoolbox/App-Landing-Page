@@ -2,7 +2,7 @@
 
 [App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing-page) is an open source, generic App Landing Page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-![App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing-page.png)
+![App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing.png)
 
 
 ## Getting Started
